@@ -13,3 +13,6 @@
 [submodule "dev/SimpleService"]
 	path = dev/SimpleService
 	url = https://github.com/p1k-Server/SimpleService
+[submodule "dev/ApacheFtpServerModule"]
+    path = dev/ApacheFtpServerModule
+    url = https://github.com/p1k-Server/ApacheFtpServerModule
