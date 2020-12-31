@@ -10,6 +10,7 @@
         <module name="ConfiguratorExtension" />
         <module name="CmdInterpreterExtension" />
         <module name="Server" />
+        <module name="ApacheFtpServerModule" />
       </profile>
     </annotationProcessing>
   </component>

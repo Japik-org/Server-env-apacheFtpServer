@@ -17,6 +17,7 @@
         <module>SimpleUIExtension</module>
         <module>ConfiguratorExtension</module>
         <module>CmdInterpreterExtension</module>
+        <module>ApacheFtpServerModule</module>
     </modules>
 
 </project>

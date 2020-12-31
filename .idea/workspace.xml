@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df8e7220-181b-4073-8765-aabc1a4f2a29" name="Default Changelist" comment="Add Server ref">
-      <change afterPath="$PROJECT_DIR$/Server" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/CmdInterpreterExtension" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/ConfiguratorExtension" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/SimpleUIExtension" afterDir="false" />
+    <list default="true" id="df8e7220-181b-4073-8765-aabc1a4f2a29" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dev/ApacheFtpServerModule/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/ApacheFtpServerModule/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dev/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +16,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/Server" value="f5e44e18371b690ae1fb2ae2516ed29b495a6096" />
+        <entry key="$PROJECT_DIR$/dev/CmdInterpreterExtension" value="30f120283fc396c7513b3af479ac8aa78f563791" />
+        <entry key="$PROJECT_DIR$/dev/ConfiguratorExtension" value="9b48f204c6bff9ad65eb87c9c46b95264a1a8bd7" />
+        <entry key="$PROJECT_DIR$/dev/SimpleUIExtension" value="ca9294071f8926cafa518475c122dd2d9252b0d5" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1mP371MbVbzvqdILoKg2KeCrS1E" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -27,17 +36,19 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dev/ApacheFtpServerModule" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.28735632" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\projects\p1k\Server-env-apacheFtpServer\dev\ApacheFtpServerModule" />
       <recent name="F:\projects\p1k\Server-env-apacheFtpServer" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -78,15 +89,24 @@
       <option name="project" value="LOCAL" />
       <updated>1609381888602</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update project settings">
+      <created>1609382489378</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609382489378</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Create project" />
     <MESSAGE value="Update module refs" />
     <MESSAGE value="Add Server ref" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Server ref" />
+    <MESSAGE value="Update project settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update project settings" />
   </component>
 </project>
