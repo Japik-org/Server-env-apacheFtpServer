@@ -4,7 +4,14 @@
     <root id="root">
       <element id="dir-copy" path="$PROJECT_DIR$/out-template/artifacts/default" />
       <element id="directory" name="core">
-        <element id="directory" name="modules" />
+        <element id="directory" name="modules">
+          <element id="archive" name="apacheftpserver-module.jar">
+            <element id="module-output" name="ApacheFtpServerModule" />
+          </element>
+          <element id="archive" name="simple-service.jar">
+            <element id="module-output" name="SimpleService" />
+          </element>
+        </element>
         <element id="directory" name="services" />
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: commons-cli:commons-cli:1.4" />

@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="SimpleService" />
         <module name="SimpleUIExtension" />
         <module name="ConfiguratorExtension" />
         <module name="CmdInterpreterExtension" />

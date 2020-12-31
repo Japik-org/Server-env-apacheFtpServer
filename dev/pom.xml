@@ -18,6 +18,7 @@
         <module>ConfiguratorExtension</module>
         <module>CmdInterpreterExtension</module>
         <module>ApacheFtpServerModule</module>
+        <module>SimpleService</module>
     </modules>
 
 </project>

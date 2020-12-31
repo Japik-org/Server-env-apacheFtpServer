@@ -10,3 +10,6 @@
 [submodule "dev/CmdInterpreterExtension"]
 	path = dev/CmdInterpreterExtension
 	url = https://github.com/p1k-Server/CmdInterpreterExtension
+[submodule "dev/SimpleService"]
+	path = dev/SimpleService
+	url = https://github.com/p1k-Server/SimpleService
