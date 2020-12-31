@@ -5,14 +5,19 @@
 
     <services onLoad="start-all">
 
-		<service name="test" type="Test">
-			<settings>
-				<setting key="" val=""/>
-			</settings>
+		<service name="ftp" type="Simple">
 			<modules>
-				<module name="test" type="Test">
+				<module name="ftp" type="ApacheFtpServer">
 					<settings>
-						<setting key="" val=""/>
+						<setting key="ftp-address" val="localhost"/>
+						<setting key="ftp-port" val="49310"/>
+						<setting key="ftp-pass-encrypt-algorithm" val="SHA-256"/>
+						<setting key="ftp-users-anonymous" val="true"/>
+						<setting key="ftp-directory" val="/"/>
+						<setting key="ftp-login-fail-delay" val="500"/>
+						<setting key="ftp-login-max" val="15"/>
+						<setting key="ftp-threads-max" val="0"/>
+						<setting key="logger-verbose" val="true"/>
 					</settings>
 				</module>
 			</modules>
@@ -25,8 +30,8 @@
 			<action id="start-test"/>
 		</action>
         <action id="start-test">
-            <service serviceName="test" method="start" delay="300"/>
-            <module serviceName="test" moduleName="test" method="start" delay="300"/>
+            <service serviceName="ftp" method="start" delay="300"/>
+            <module serviceName="ftp" moduleName="ftp" method="start" delay="300"/>
         </action>
     </actions>
 </server>

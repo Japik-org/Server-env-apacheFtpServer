@@ -8,14 +8,19 @@
           <element id="archive" name="apacheftpserver-module.jar">
             <element id="module-output" name="ApacheFtpServerModule" />
           </element>
+        </element>
+        <element id="directory" name="services">
           <element id="archive" name="simple-service.jar">
             <element id="module-output" name="SimpleService" />
           </element>
         </element>
-        <element id="directory" name="services" />
         <element id="directory" name="lib">
           <element id="library" level="project" name="Maven: commons-cli:commons-cli:1.4" />
           <element id="library" level="project" name="Maven: com.sun.istack:istack-commons-runtime:4.0.0" />
+          <element id="library" level="project" name="Maven: org.apache.ftpserver:ftplet-api:1.1.1" />
+          <element id="library" level="project" name="Maven: org.apache.ftpserver:ftpserver-core:1.1.1" />
+          <element id="library" level="project" name="Maven: org.apache.mina:mina-core:2.0.16" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.21" />
         </element>
         <element id="directory" name="utils" />
         <element id="directory" name="extensions">
