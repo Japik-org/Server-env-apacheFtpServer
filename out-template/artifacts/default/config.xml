@@ -12,7 +12,9 @@
 						<setting key="ftp-address" val="localhost"/>
 						<setting key="ftp-port" val="49310"/>
 						<setting key="ftp-pass-encrypt-algorithm" val="SHA-256"/>
-						<setting key="ftp-users-anonymous" val="true"/>
+						<setting key="ftp-pass-encrypt-salt" val="123salt"/>
+						<setting key="ftp-anonymous-enabled" val="true"/>
+						<setting key="ftp-anonymous-write" val="false"/>
 						<setting key="ftp-directory" val="/"/>
 						<setting key="ftp-login-fail-delay" val="500"/>
 						<setting key="ftp-login-max" val="15"/>

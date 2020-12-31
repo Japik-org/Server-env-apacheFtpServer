@@ -6,6 +6,7 @@
     <mapping directory="$PROJECT_DIR$/dev/ApacheFtpServerModule" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/dev/CmdInterpreterExtension" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/dev/ConfiguratorExtension" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/dev/SimpleService" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/dev/SimpleUIExtension" vcs="Git" />
   </component>
 </project>

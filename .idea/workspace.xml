@@ -9,8 +9,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df8e7220-181b-4073-8765-aabc1a4f2a29" name="Default Changelist" comment="">
+    <list default="true" id="df8e7220-181b-4073-8765-aabc1a4f2a29" name="Default Changelist" comment="Edit settings">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dev/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dev/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out-template/artifacts/default/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out-template/artifacts/default/config.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/utils/pom.xml" afterDir="false" />
     </list>
@@ -166,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609394842271</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Fix bugs, add more settings">
+      <created>1609446313080</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1609446313080</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -183,6 +193,7 @@
     <MESSAGE value="Add .gitignore" />
     <MESSAGE value="Update project settings" />
     <MESSAGE value="Set final version 0.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Set final version 0.1" />
+    <MESSAGE value="Fix bugs, add more settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix bugs, add more settings" />
   </component>
 </project>
