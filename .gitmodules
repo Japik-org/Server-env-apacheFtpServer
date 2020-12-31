@@ -1,0 +1,12 @@
+[submodule "Server"]
+	path = Server
+	url = https://github.com/p1k-Server/Server
+[submodule "dev/SimpleUIExtension"]
+	path = dev/SimpleUIExtension
+	url = https://github.com/p1k-Server/SimpleUIExtension
+[submodule "dev/ConfiguratorExtension"]
+	path = dev/ConfiguratorExtension
+	url = https://github.com/p1k-Server/ConfiguratorExtension
+[submodule "dev/CmdInterpreterExtension"]
+	path = dev/CmdInterpreterExtension
+	url = https://github.com/p1k-Server/CmdInterpreterExtension

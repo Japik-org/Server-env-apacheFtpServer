@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="df8e7220-181b-4073-8765-aabc1a4f2a29" name="Default Changelist" comment="Create project">
+      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Server-env-apacheFtpServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/CmdInterpreterExtension" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/ConfiguratorExtension" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/SimpleUIExtension" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out-template/artifacts/default/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out-template/artifacts/default/start_auto.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pull.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mP371MbVbzvqdILoKg2KeCrS1E" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.28735632" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\projects\p1k\Server-env-apacheFtpServer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\projects\p1k\Server-env-apacheFtpServer\.idea" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Batch.pull">
+    <configuration name="pull" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="Server-env-apacheFtpServer" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="F:\projects\p1k\Server-env-apacheFtpServer" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="pull.bat" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Batch.pull" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df8e7220-181b-4073-8765-aabc1a4f2a29" name="Default Changelist" comment="" />
+      <created>1609381228145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609381228145</updated>
+    </task>
+    <servers />
+  </component>
+</project>
