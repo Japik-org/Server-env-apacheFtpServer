@@ -10,14 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df8e7220-181b-4073-8765-aabc1a4f2a29" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dev/ApacheFtpServerModule/src/main/java/com/pro100kryto/server/modules/apacheftpserver/DigestPasswordEncryptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/ApacheFtpServerModule/src/main/java/com/pro100kryto/server/modules/apacheftpserver/FtpletLogger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dev/ApacheFtpServerModule/src/main/java/com/pro100kryto/server/modules/apacheftpserver/NoPasswordEncryptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/ApacheFtpServerModule/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dev/ApacheFtpServerModule/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev/ApacheFtpServerModule/src/main/java/com/pro100kryto/server/modules/ApacheFtpServerModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/dev/ApacheFtpServerModule/src/main/java/com/pro100kryto/server/modules/ApacheFtpServerModule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-template/artifacts/default/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out-template/artifacts/default/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dev/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/utils/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +35,7 @@
         <entry key="$PROJECT_DIR$/dev/SimpleUIExtension" value="ca9294071f8926cafa518475c122dd2d9252b0d5" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/dev/ApacheFtpServerModule" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1mP371MbVbzvqdILoKg2KeCrS1E" />
@@ -143,7 +138,35 @@
       <option name="project" value="LOCAL" />
       <updated>1609389466301</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Implement">
+      <created>1609394727203</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1609394727203</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add .gitignore">
+      <created>1609394768260</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1609394768260</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Update project settings">
+      <created>1609394804261</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1609394804261</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Set final version 0.1">
+      <created>1609394842271</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1609394842271</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,11 +175,14 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Update module refs" />
     <MESSAGE value="Add Server ref" />
-    <MESSAGE value="Update project settings" />
     <MESSAGE value="Create project" />
     <MESSAGE value="Add maven module ApacheFtpServerModule" />
     <MESSAGE value="Fix dependency scope" />
     <MESSAGE value="Add mvn module SimpleService" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add mvn module SimpleService" />
+    <MESSAGE value="Implement" />
+    <MESSAGE value="Add .gitignore" />
+    <MESSAGE value="Update project settings" />
+    <MESSAGE value="Set final version 0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Set final version 0.1" />
   </component>
 </project>
